@@ -44,7 +44,9 @@ Output variable (based on sensory data):
 
 What might be an interesting thing to do, is aside from using regression modelling, is to set an arbitrary cutoff for your dependent variable (wine quality) at e.g. 7 or higher getting classified as 'good/1' and the remainder as 'not good/0'.
 
+# What was done in this project?
 
+In this project, we have implemented basic stat, correlation, information about missing values, visualization as boxplot, histplot, scatterplot. Here we apply the model random Forest, logistic regression, support vector machine, decision tree, K neighbours, and gaussian naive bayes
 
 
 
